@@ -1,5 +1,15 @@
 import React from 'react'
-import { Text, View } from 'react-native'
+import {
+  Platform,
+  ScrollView,
+  StyleSheet,
+  TouchableOpacity,
+  Text,
+  View,
+} from 'react-native';
+import { StackNavigator } from 'react-navigation'
+
+import Banner from './banner'
 
 class App extends React.Component {
   render() {
