@@ -11,6 +11,7 @@ import { StackNavigator } from 'react-navigation'
 
 import Banner from './banner'
 import CustomTabs from './custom_tabs'
+import Drawer from './drawer'
 
 class App extends React.Component {
   render() {
