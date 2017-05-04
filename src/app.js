@@ -16,6 +16,7 @@ import TabsInDrawer from './tabs_in_drawer'
 import ModalStack from './modal_stack'
 import StacksInTabs from './stacks_in_tabs'
 import StacksOverTabs from './stacks_over_tabs'
+import SimpleStack from './simple_stack'
 
 class App extends React.Component {
   render() {
