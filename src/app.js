@@ -10,6 +10,7 @@ import {
 import { StackNavigator } from 'react-navigation'
 
 import Banner from './banner'
+import CustomTabs from './custom_tabs'
 
 class App extends React.Component {
   render() {
